@@ -1,4 +1,4 @@
-OpenGL Template program with GLFW3.3
+OpenGL Template program by GLFW3.3
 ====
 
 ## 概要
