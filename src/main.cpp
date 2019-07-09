@@ -42,7 +42,7 @@ int main(void)
   glfwMakeContextCurrent(window);
 
   // Init OpenGL extensions
-  if (!gladLoadGL()) 
+  if (!gladLoadGL())
   {
 	  glfwTerminate();
 	  return -1;
